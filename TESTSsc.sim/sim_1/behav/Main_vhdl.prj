@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/scs.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/efsfsrf.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/xsdea.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/fsfses.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/SSD.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/debouncer.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/fdsfrsfs.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/grsdfsfes.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/sfesfes.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/fsfs.vhd"
+vhdl xil_defaultlib  "../../../TESTSsc.srcs/sources_1/new/Main.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,27 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto dde0905a518a4a63bd1972a8c8d0a3ba --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Main_behav xil_defaultlib.Main -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.full_sub [full_sub_default]
+Compiling architecture behavioral of entity xil_defaultlib.full_sub_8bit [full_sub_8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.divider8 [divider8_default]
+Compiling architecture fulladd_logic of entity xil_defaultlib.full_adder1bit [full_adder1bit_default]
+Compiling architecture sumator of entity xil_defaultlib.half_adder [half_adder_default]
+Compiling architecture multiplicator of entity xil_defaultlib.multiplier_8bit [multiplier_8bit_default]
+Compiling architecture fulladder8bit of entity xil_defaultlib.full_adder8bit_1 [full_adder8bit_1_default]
+Compiling architecture behav of entity xil_defaultlib.square_root [square_root_default]
+Compiling architecture behavioral of entity xil_defaultlib.debouncer [debouncer_default]
+Compiling architecture behavioral of entity xil_defaultlib.SSD [ssd_default]
+Compiling architecture behavioral of entity xil_defaultlib.main
+Built simulation snapshot Main_behav

@@ -1,0 +1,15 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/Main.vhd,1702361332,vhdl,,,,main,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/SSD.vhd,1702361453,vhdl,,,,ssd,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/debouncer.vhd,1702042945,vhdl,,,,debouncer,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/efsfsrf.vhd,1701637830,vhdl,,,,half_adder,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/fdsfrsfs.vhd,1702042653,vhdl,,,,square_root,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/fsfs.vhd,1701637716,vhdl,,,,full_adder8bit_1,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/fsfses.vhd,1701637791,vhdl,,,,full_sub_8bit,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/grsdfsfes.vhd,1701637924,vhdl,,,,divider8,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/scs.vhd,1701637753,vhdl,,,,full_sub,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/sfesfes.vhd,1701637869,vhdl,,,,multiplier_8bit,,,,,,,,
+C:/Users/sergi/TESTSsc/TESTSsc.srcs/sources_1/new/xsdea.vhd,1701637686,vhdl,,,,full_adder1bit,,,,,,,,
